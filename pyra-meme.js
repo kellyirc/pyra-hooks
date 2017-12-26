@@ -1,6 +1,10 @@
 /**
 * @param context {WebtaskContext}
 */
+const sample = require('lodash.sample');
+
 module.exports = function(context, cb) {
-  cb(null, { hello: context.query.name || 'Anonymous' });
+  cb(null, { body: [
+    { message: 'THINK YOU CAN TAKE ME?' }  
+  ]});
 };
