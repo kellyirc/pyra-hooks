@@ -1,6 +1,3 @@
-/**
-* @param context {WebtaskContext}
-*/
 const sample = require('lodash.sample');
 
 module.exports = function(context, cb) {
