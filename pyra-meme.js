@@ -5,7 +5,7 @@ const allMemes = [
   'I\'LL SHOW YOU A THING OR THREE!',
   'DON\'T FORGET ME!',
   'I\'m really feeling it!',
-  'We\'ll beat them with the powre of friendship!',
+  'We\'ll beat them with the power of friendship!',
   'Ready or Gormotti!',
   'MEH-MEH-MEH-MEH-MEH!',
   'Oh, and I\'ve started glowing. I\'m a bit self-conscious...',
