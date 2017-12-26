@@ -1,7 +1,7 @@
 const sample = require('lodash.sample');
 
 module.exports = function(context, cb) {
-  cb(null, { body: [
+  cb(null, [
     { message: 'THINK YOU CAN TAKE ME?' }  
-  ]});
+  ]);
 };
