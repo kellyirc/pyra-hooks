@@ -3,6 +3,6 @@ const dep = require('./_dep');
 
 module.exports = function(context, cb) {
   cb(null, {
-    message: _.toUpper(dep.string)
+    message: _.toLower(dep.string + ' Wow!')
   });
 }

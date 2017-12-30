@@ -1,3 +1,3 @@
 module.exports = {
-  string: 'hello world!'
+  string: 'hello world! Oh!'
 };
