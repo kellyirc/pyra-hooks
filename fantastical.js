@@ -17,7 +17,7 @@ module.exports = function(context, cb) {
     }
   });
   const category = argv._[0];
-  const fn = argv._[0];
+  const fn = argv._[1];
 
   if(argv.gender) {
     return cb(null, {
